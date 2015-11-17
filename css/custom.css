@@ -164,7 +164,7 @@ header .header-content .header-content-inner p {
 	}
 
 .page-footer {
-	text-align: middle;
+	text-align: center;
 	}
 
 .page-footer .contact {
@@ -360,7 +360,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    background-image: none;
+    background-image:url(file:///Users/s210481/Desktop/Bruh.github.io/images/cats4.jpg);
 }
 
 .btn-primary.disabled,
@@ -392,7 +392,7 @@ fieldset[disabled] .btn-primary.active {
 
 
 .btn {
-    border-radius: 300px;
+    border-radius: 450px;
     text-transform: uppercase;
 }
 
@@ -428,4 +428,5 @@ img::-moz-selection {
 
 .bg-primary {
     background-color: yellowgreen;
+
 }
